@@ -1,5 +1,4 @@
-# WS-Hexa-Stewart
-Worksapce analysis of a walking hexapod and Stewart Gough Mechanism.
+# Worksapce analysis of a walking hexapod and Stewart Gough Mechanism
 
 Visually derived the 3D COW (Constant Orienation Workspace) for Both a Hexapod Stewart-Gough Platform (manipulator) and a Radially Symmetric Hexapod Walking robot when the upper platform is horizontal.
 
