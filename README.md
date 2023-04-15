@@ -17,7 +17,7 @@ Workspace (shaded region):
 
 Top View:
 
-![image](https://user-images.githubusercontent.com/64325043/232258346-2e1d9d80-e69b-4d3d-9517-060f49a2b729.png)
+![image](https://user-images.githubusercontent.com/64325043/232258399-230189d3-e03c-49e9-8142-845e25ddcbe6.png)
 
 Workspace (shaded region):
 
